@@ -1,3 +1,3 @@
-## Template
+## `@darblast/loader`
 
-Clone this repository to get started with a new Darblast module.
+Utilities for asynchronous asset loading.
